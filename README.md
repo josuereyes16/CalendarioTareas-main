@@ -9,8 +9,6 @@
 * [4. Contribuciones](#4-contribuciones)
 * [5. Contacto ](#5-contacto)
 
-## 1. Descripción del Proyecto
-Este proyecto comenzó el año 2022 cuando me encontraba en el programa de Oracle. Muchos compañeros tenían problemas en la organización de tareas y poder cumplir con las fechas establecidas. Es por ello, que creé este proyecto de planificación de tareas en noviembre de dicho año, pero al verlo este año decidí darle más funcionalidad y responsive con el objetivo de que ahora sea una aplicación más funcional. A continuación podrás ver la aplicación en distintos sizes. 
 
 ### Desktop Size
 
@@ -51,8 +49,5 @@ Las características funcionalidades de este proyecto son los siguientes:
 4. Realiza un pull request describiendo tus cambios.
 
 Como tip: Se pueden agregar funcionalidad de editar la tarea. 
-
-## 5. Contacto
-- [x] Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo! [Aquí](https://www.linkedin.com/in/mariaignaciasilva/)
 
 ¡Que disfrutes utilizando esta aplicación para administrar tareas!
