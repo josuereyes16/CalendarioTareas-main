@@ -1,15 +1,5 @@
 # Sitio para organizar tus tareas
 
-
-## Índice
-
-* [1. Descripción del Proyecto](#1-descripcion-del-proyecto)
-* [2. Características](#2-caracteristicas)
-* [3. Instrucciones de uso](#3-instrucciones-de-uso)
-* [4. Contribuciones](#4-contribuciones)
-* [5. Contacto ](#5-contacto)
-
-
 ### Desktop Size
 
 ![imagen](assets/desktopSize.png)
